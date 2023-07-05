@@ -1,8 +1,8 @@
-export default function Home() {
+export default function PersonalFinanceManagerPage() {
   return (
     <main className="py-10">
       <div className="px-4 sm:px-6 lg:px-8">
-        HOMEPAGE
+        FINANCES
       </div>
     </main>
   );
